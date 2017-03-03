@@ -4,12 +4,10 @@ permalink: "/about/"
 layout: page
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+You're not here to fuck around. You just want to get burger fucked.
+We're here to help you with that. The best burgers in San Francisco
+updated weekly. [burgrfck.com](https://burgrfck.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Follow us on Twitter:
+{% include icon-twitter.html username="burgrfck" %} /
+[minima](https://twitter.com/burgrfck)
