@@ -21,7 +21,7 @@ github_username: fredbobathon
 markdown: kramdown
 google_analytics: UA-92970153-1
 disqus:
-    shortname: burgrfck
+  shortname: burgrfck
 theme: minima
 gems:
 - jekyll-feed
