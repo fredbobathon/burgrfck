@@ -19,6 +19,7 @@ url: http://burgrfck.com
 twitter_username: burgrfck
 github_username: fredbobathon
 markdown: kramdown
+google_analytics: UA-92970153-1
 theme: minima
 gems:
 - jekyll-feed
